@@ -15,6 +15,7 @@ This tool acts as a psychological containment system. It interrupts the habit lo
 * **Minimalist Aesthetic:** A dark-mode, high-contrast UI designed for clarity at a glance.
 * **Custom Visual Reminder:** Integrates a local image (`dontcare.jpg`) to ground the message in your personal aesthetic.
 * **Intentional Friction:** Replaces an automatic page load with a conscious decision to proceed.
+* **Click to Proceed:** Once clicked, user can still access Reddit (which is better user experience than simply adding Reddit to your Adblocker or whatever.)
 
 ---
 
