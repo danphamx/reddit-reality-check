@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Reddit Reality Check",
+  "version": "1.1",
+  "content_scripts": [
+    {
+      "matches": ["*://*.reddit.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["dontcare.jpg"],
+      "matches": ["*://*.reddit.com/*"]
+    }
+  ]
+}
